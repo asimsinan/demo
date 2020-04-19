@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "dersler": [
+    { "dersid": 1, "dersadi": "Yazılım Mühendisliği" },
+    { "dersid": 2, "title": "Web Teknolojileri ve Programlama" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "ogrenciler": [
+    { "ogrencino": 1, "adsoyad": "Sinan Yüksel", "dersid": 1 },
+    { "ogrencino": 2, "adsoyad": "Asım Yüksel", "dersid": 2 }
+  ]
 }
