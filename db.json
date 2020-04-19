@@ -1,7 +1,7 @@
 {
   "dersler": [
     { "dersid": 1, "dersadi": "Yazılım Mühendisliği" },
-    { "dersid": 2, "title": "Web Teknolojileri ve Programlama d" }
+    { "dersid": 2, "title": "Web Teknolojileri ve Programlama" }
   ],
   "ogrenciler": [
     { "ogrencino": 1, "adsoyad": "Sinan Yüksel", "dersid": 1 },
